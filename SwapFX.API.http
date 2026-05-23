@@ -1,0 +1,6 @@
+@SwapFX.API_HostAddress = http://localhost:5140
+
+GET {{SwapFX.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
